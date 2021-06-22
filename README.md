@@ -2,4 +2,4 @@
 
 ### FIRST REACT APP HYPE! 👌🐱‍🏍🤞😎🎶🎉
 
-(https://shailesz.github.io/yt-app)[CHECK HERE]
+[CHECK HERE](https://shailesz.github.io/yt-app)
