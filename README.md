@@ -1,3 +1,3 @@
 # yt-app
 
-### FIRST REACT APP HYPE! 
+### FIRST REACT APP HYPE! 👌🐱‍🏍🤞😎🎶🎉
